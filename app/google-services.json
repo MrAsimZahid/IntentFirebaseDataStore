@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944622256026",
+    "firebase_url": "https://intentdata-5edf6.firebaseio.com",
+    "project_id": "intentdata-5edf6",
+    "storage_bucket": "intentdata-5edf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944622256026:android:459ade802465ff21120423",
+        "android_client_info": {
+          "package_name": "io.simstech.intentfirebasedatastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944622256026-j0gl7rsg3eorm8guulenq8fqognsijm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.simstech.intentfirebasedatastore",
+            "certificate_hash": "84e1696d4930fac6e38a95f87a8fc231b118fb25"
+          }
+        },
+        {
+          "client_id": "944622256026-2bnl9tksr53rfb33fjtc3f9gk7pa4jil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0x3cjkloShlAXf_3Ynfd_X2qrpNO4Fh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944622256026-2bnl9tksr53rfb33fjtc3f9gk7pa4jil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
